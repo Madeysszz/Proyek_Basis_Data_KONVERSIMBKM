@@ -1,0 +1,5 @@
+﻿status_activated,jumlah_transaksi,pendapatan_valid,jumlah_churn
+ACTIVE,9286,148092000,0
+CANCEL,4958,66927900,3146
+PENDING,11,175000,0
+FAILED,6,66000,0
